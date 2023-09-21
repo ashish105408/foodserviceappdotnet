@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/foodheaven/.vs
+/foodheaven/foodheaven.services.couponapi/bin/Debug/net8.0
+/.vs
+/foodheaven/foodheaven.services.couponapi/obj
+/foodheaven/foodheaven.services.couponapi/foodheaven.services.couponapi.csproj.user
+/foodheaven/foodheaven.web/bin/Debug/net8.0
+/foodheaven/foodheaven.web/obj
+/foodheaven/foodheaven.web/foodheaven.web.csproj.user
